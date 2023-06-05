@@ -5,17 +5,22 @@ Pairing Game for Android
 PairGame - An interactive Android memory game.
 
 Overview:
+
 PairGame is a single-player Android memory card game where the player must match pairs of cards with the same image. The game provides a challenge for everyone, allowing the player to sharpen their memory skills while enjoying the process.
 
 Main Features:
 
-Multi-Level Gameplay: Currently, the game includes an 'Intermediate' level with 20 cards featuring a variety of different images. Each card is matched with one other card bearing the same image.
+Multi-Level Gameplay: Currently, the game includes a 'Beginner' with 12 cards, 'Intermediate' level with 20 cards featuring a variety of different images. Each card is matched with one other card bearing the same image. The 'Expert' is same with 'Intermediate' with a time limit of 1minute.
+
 Responsive UI: The game employs an engaging user interface with card flip animations.
+
 Sound Effects: Different sound effects are played when the user flips a card, finds a pair, selects an incorrect pair, or finds all pairs.
+
 System UI Control: The game takes full advantage of the device's display by hiding the navigation and status bars for a more immersive gaming experience.
 
 Technologies Used:
 Java: The application is written entirely in Java.
+
 Android SDK: The application makes use of the Android SDK to implement system UI control, sound effects, and animations.
 Classes:
 
