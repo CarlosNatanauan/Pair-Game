@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pair Game</string>
+
+    <string name="card1">Card 1</string>
+    <string name="card2">Card 2</string>
+    <string name="card3">Card 3</string>
+    <string name="card4">Card 4</string>
+    <string name="card5">Card 5</string>
+    <string name="card6">Card 6</string>
+    <string name="card7">Card 7</string>
+    <string name="card8">Card 8</string>
+    <string name="card9">Card 9</string>
+    <string name="card10">Card 10</string>
+    <string name="card11">Card 11</string>
+    <string name="card12">Card 12</string>
+    <string name="card13">Card 13</string>
+    <string name="card14">Card 14</string>
+    <string name="card15">Card 15</string>
+    <string name="card16">Card 16</string>
+    <string name="card17">Card 17</string>
+    <string name="card18">Card 18</string>
+    <string name="card19">Card 19</string>
+    <string name="card20">Card 20</string>
+</resources>

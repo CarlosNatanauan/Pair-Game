@@ -1,0 +1,18 @@
+<resources>
+    <style name="FullScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+
+    <style name="CustomAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Color of the title -->
+        <item name="colorPrimary">#7579D4</item>
+        <!-- Color of the message -->
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- Changing text color to white for better contrast -->
+        <!-- Color of the buttons -->
+        <item name="colorAccent">#FFFFFF</item> <!-- Changing button text color to white for better contrast -->
+        <!-- Background color of the dialog -->
+        <item name="android:background">#7579D4</item>
+    </style>
+</resources>

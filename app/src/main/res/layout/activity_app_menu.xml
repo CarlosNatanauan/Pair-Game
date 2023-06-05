@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AppMenu"
+    android:background="@drawable/mainmenubgginal"
+    >
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btBeginner"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Beginner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="500dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="#212240"
+        app:cornerRadius="10dp"
+        app:strokeColor="#E092E7"
+        app:strokeWidth="1dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        app:rippleColor="#DA4747"
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btIntermediate"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Intermediate"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/btBeginner"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="#212240"
+        app:cornerRadius="10dp"
+        app:strokeColor="#E092E7"
+        app:strokeWidth="1dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        app:rippleColor="#DA4747"
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btExpert"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Expert"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/btIntermediate"
+        android:backgroundTint="#212240"
+        app:cornerRadius="10dp"
+        app:strokeColor="#E092E7"
+        app:strokeWidth="1dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        app:rippleColor="#DA4747"
+        />
+
+</RelativeLayout>
