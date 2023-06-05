@@ -19,6 +19,7 @@ Sound Effects: Different sound effects are played when the user flips a card, fi
 System UI Control: The game takes full advantage of the device's display by hiding the navigation and status bars for a more immersive gaming experience.
 
 Technologies Used:
+
 Java: The application is written entirely in Java.
 
 Android SDK: The application makes use of the Android SDK to implement system UI control, sound effects, and animations.
